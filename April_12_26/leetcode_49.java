@@ -22,7 +22,6 @@ public class leetcode_49 {
     public static void main(String[] args) {
         leetcode_49 sol = new leetcode_49();
         List<List<String>> result = sol.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"});
-
         System.out.println(result);
     }
 }
