@@ -41,5 +41,7 @@ public class day_at_the_beach {
 
         int result = solve(arr);
         System.out.println(result);
+
+        sc.close();
     }
 }
